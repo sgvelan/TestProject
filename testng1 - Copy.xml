@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="1" name="Test">
     <classes>
-		<class name="ExecutionOrder.TestNgexeorderOne1 test"/>    
+		<class name="ExecutionOrder.TestNgexeorderOne1 test test2 branch pull request"/>    
       <class name="ExecutionOrder.TestNgexeorderTwo"/>
     </classes>
   </test> <!-- Test -->
